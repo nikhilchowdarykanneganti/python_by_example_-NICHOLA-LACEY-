@@ -1,0 +1,31 @@
+This contains challengs in mathematics
+Basic Intro:
+--------------------------------------------------------------------------------------------------
+print(round(num,2))
+Displays a number rounded to
+two decimal places.
+--------------------------------------------------------------------------------------------------
+** 
+To the power of
+(e.g. 10^2 is 10**2)
+--------------------------------------------------------------------------------------------------
+math.sqrt(num)
+The square root of a number, but you must have the line import
+math at the top of your program for this to work.
+--------------------------------------------------------------------------------------------------
+num=float(input(“Enter number: “))
+Allows numbers with a decimal point dividing the integer and fraction part.
+--------------------------------------------------------------------------------------------------
+math.pi
+Gives you pi (π) to 15 decimal places,
+but you must have the line import
+math at the top of your program for
+this to work.
+--------------------------------------------------------------------------------------------------
+x // y
+Whole number division (e.g.15//2 gives
+the answer 7).
+--------------------------------------------------------------------------------------------------
+x % y
+Finds the remainder (e.g. 15%2 gives
+the answer 1).
